@@ -1,0 +1,11 @@
+19.03.2025
+
+Paper Brain Age
+
+-Figuras Agrupadas por tipo de modelo 
+
+letra arial 11 nombre ejes y 10 para números
+
+líneas gruesas gris oscuro y líneas delgadas gris claro
+
+líneas gruesas 0.3 y líneas delgadas 0.2 (grosor linea)
